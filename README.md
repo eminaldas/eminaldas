@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammed%20Emin%20Alda%C5%9F&fontSize=42&fontAlignY=35&color=0:6E33FF,100:2DD4BF&fontColor=ffffff&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Beykoz+University;Frontend+Developer+💻;Clean+Code+Enthusiast;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Beykoz+University;Frontend+Developer+💻;Always+Learning+🚀)
 
 ### 🧰 Tech Stack
 <p>
