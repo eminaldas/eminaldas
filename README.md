@@ -30,6 +30,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eminaldas&theme=tokyo-night&hide_border=true" />
 </p>
 
+[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/31af5d6djtktyhfpk4glrdogbqaq)](https://open.spotify.com/user/31af5d6djtktyhfpk4glrdogbqaq)
+            
 <p align="center">
   <a href="mailto:eminaldas575@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EMINALDAS575%40GMAIL.COM-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/muhammedeminaldas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Emin%20Alda%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
