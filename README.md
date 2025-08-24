@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammed%20Emin%20Alda%C5%9F&fontSize=42&fontAlignY=35&color=0:6E33FF,100:2DD4BF&fontColor=ffffff&animation=fadeIn)
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammed%20Emin%20Alda%C5%9F&fontSize=38&fontAlignY=40&color=0:0f172a,100:064e3b&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Beykoz+University;Frontend+Developer+💻;Always+Learning+🚀)
+<!-- Pixel-style typing headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=600&color=34D399&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Frontend+Developer;Always+Learning" alt="Typing SVG" />
+</p>
 
 ### 🧰 Tech Stack
 <p>
@@ -15,6 +21,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman,vscode,figma" />
 </p>
+
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eminaldas&show_icons=true&theme=tokyonight&hide_border=true" />
