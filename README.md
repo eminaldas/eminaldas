@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammed%20Emin%20Alda%C5%9F&fontSize=38&fontAlignY=40&color=0:0f172a,100:064e3b&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+
 <!-- Pixel-style typing headline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=600&color=34D399&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Frontend+Developer;Always+Learning" alt="Typing SVG" />
