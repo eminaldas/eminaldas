@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Frontend+Developer;Always+Learning"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=a1accc&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Frontend+Developer;Always+Learning"
     alt="Typing headline"
   />
 </p>
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eminaldas&theme=tokyonight&no-bg=true&no-frame=true&column=6&title=Commits,PullRequest,Repositories,Stars,Followers,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eminaldas&theme=algolia&no-bg=false&no-frame=true&column=6&title=Commits,PullRequest,Repositories,Stars,Followers,Issues" />
 </p>
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
