@@ -5,6 +5,7 @@
     alt="MUHAMMED EMİN ALDAŞ - Pixel Title"
   />
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=a1accc&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Frontend+Developer;Always+Learning"
