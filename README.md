@@ -44,7 +44,6 @@
 </div>
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eminaldas&theme=algolia&no-bg=false&no-frame=true&column=6&title=Commits,PullRequest,Repositories,Stars,Followers,Issues" />
 </p>
