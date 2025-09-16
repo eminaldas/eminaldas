@@ -11,7 +11,6 @@
     alt="Typing headline"
   />
 </p>
-
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 <p align="center">
