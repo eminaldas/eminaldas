@@ -15,19 +15,19 @@
 
 <p align="center">
   <!-- 🔵 Lacivert Arka Plan - Mavi Tonlar -->
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=ts,react,postgres" />
 
   <!-- 🟡 Lacivert Arka Plan - Sarı / Turuncu Tonlar -->
-  <img src="https://skillicons.dev/icons?i=js,redis" />
+  <img src="https://skillicons.dev/icons?i=js"/>
 
   <!-- 🟢 Lacivert Arka Plan - Yeşil Tonlar -->
-  <img src="https://skillicons.dev/icons?i=angular,tailwind,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,mongodb" />
 
   <!-- 🟣 Lacivert Arka Plan - Mor & Koyu Tonlar -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,fastapi,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,mysql" />
 
   <!-- 🎨 Düz Renk Arka Planlılar -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma" />
 </p>
 
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
