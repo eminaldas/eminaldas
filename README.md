@@ -53,9 +53,6 @@
 </a>
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
-[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/31af5d6djtktyhfpk4glrdogbqaq)](https://open.spotify.com/user/31af5d6djtktyhfpk4glrdogbqaq)
- <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
-           
 <p align="center">
   <a href="mailto:eminaldas575@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
