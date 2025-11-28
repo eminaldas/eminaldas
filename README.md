@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,mysql" />
 
   <!-- 🎨 Düz Renk Arka Planlılar -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma" />
 </p>
 
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
