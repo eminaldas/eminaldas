@@ -61,9 +61,6 @@
   <a href="https://www.linkedin.com/in/muhammedeminaldas">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/AldsEmin">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X"/>
-  </a>
   <a href="https://www.instagram.com/eminalds/">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
   </a>
