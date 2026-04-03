@@ -35,17 +35,11 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eminaldas&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" />
-  
+
   <!-- Streak Stats -->
   <img height="165" src="https://streak-stats.demolab.com?user=eminaldas&theme=tokyonight&hide_border=true&ring=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&background=0d1117" />
   
-</div>
-<hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eminaldas&theme=algolia&no-bg=false&no-frame=true&column=6&title=Commits,PullRequest,Repositories,Stars,Followers,Issues" />
-</p>
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 
