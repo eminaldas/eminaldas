@@ -4,6 +4,7 @@
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1&pause=999999999&color=38BDF8&center=true&vCenter=true&width=1200&height=70&lines=MUHAMMED+EMIN+ALDA%C5%9E"
     alt="MUHAMMED EMİN ALDAŞ - Pixel Title"
   />
+
   
 </p>
 <p align="center">
