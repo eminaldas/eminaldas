@@ -15,16 +15,12 @@
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 <p align="center">
-  <!-- 🔵 Lacivert Arka Plan - Mavi Tonlar -->
   <img src="https://skillicons.dev/icons?i=ts,react,postgres,docker" />
 
-  <!-- 🟡 Lacivert Arka Plan - Sarı / Turuncu Tonlar -->
   <img src="https://skillicons.dev/icons?i=js"/>
 
-  <!-- 🟢 Lacivert Arka Plan - Yeşil Tonlar -->
   <img src="https://skillicons.dev/icons?i=angular,tailwind,mongodb" />
 
-  <!-- 🟣 Lacivert Arka Plan - Mor & Koyu Tonlar -->
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,mysql" />
 
   <!-- 🎨 Düz Renk Arka Planlılar -->
