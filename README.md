@@ -15,7 +15,7 @@
 <hr style="border: 0; height: 1px; background: #1e293b; margin: 20px 0;" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,react,postgres,ps" />
 
   <img src="https://skillicons.dev/icons?i=js"/>
 
