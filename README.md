@@ -6,6 +6,10 @@
   />  
 </p>
 <p align="center">
+
+
+
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=a1accc&center=true&vCenter=true&width=1000&lines=Software+Engineering;full-stack+Developer;Always+Learning"
     alt="Typing headline"
